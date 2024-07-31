@@ -1,0 +1,266 @@
+Date : 2024-06-22 18:23:41
+Directory : c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile
+Total : 146 files,  8074 codes, 866 comments, 897 blanks, all 9837 lines
+
+Languages
++-----------------+------------+------------+------------+------------+------------+
+| language        | files      | code       | comment    | blank      | total      |
++-----------------+------------+------------+------------+------------+------------+
+| Dart            |         97 |      6,496 |        595 |        613 |      7,704 |
+| C++             |         16 |        547 |        121 |        182 |        850 |
+| XML             |         10 |        475 |         50 |         14 |        539 |
+| JSON            |          4 |        248 |          0 |          4 |        252 |
+| Gradle          |          3 |        104 |          5 |         23 |        132 |
+| Swift           |          6 |         56 |          7 |         20 |         83 |
+| YAML            |          2 |         44 |         72 |          9 |        125 |
+| CMake           |          2 |         41 |          0 |         12 |         53 |
+| HTML            |          1 |         38 |         16 |          6 |         60 |
+| Markdown        |          2 |         13 |          0 |          9 |         22 |
+| Java Properties |          2 |          8 |          0 |          2 |         10 |
+| Kotlin          |          1 |          4 |          0 |          3 |          7 |
++-----------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                         | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                            |        146 |      8,074 |        866 |        897 |      9,837 |
+| . (Files)                                                                                                                                    |          3 |         54 |         72 |         16 |        142 |
+| android                                                                                                                                      |         13 |        187 |         53 |         39 |        279 |
+| android (Files)                                                                                                                              |          3 |         53 |          0 |         12 |         65 |
+| android\app                                                                                                                                  |          9 |        129 |         53 |         26 |        208 |
+| android\app (Files)                                                                                                                          |          1 |         54 |          5 |         12 |         71 |
+| android\app\src                                                                                                                              |          8 |         75 |         48 |         14 |        137 |
+| android\app\src\debug                                                                                                                        |          1 |          3 |          4 |          1 |          8 |
+| android\app\src\main                                                                                                                         |          6 |         69 |         40 |         12 |        121 |
+| android\app\src\main (Files)                                                                                                                 |          1 |         39 |          8 |          3 |         50 |
+| android\app\src\main\kotlin                                                                                                                  |          1 |          4 |          0 |          3 |          7 |
+| android\app\src\main\kotlin\com                                                                                                              |          1 |          4 |          0 |          3 |          7 |
+| android\app\src\main\kotlin\com\example                                                                                                      |          1 |          4 |          0 |          3 |          7 |
+| android\app\src\main\kotlin\com\example\distrito7_mobile                                                                                     |          1 |          4 |          0 |          3 |          7 |
+| android\app\src\main\res                                                                                                                     |          4 |         26 |         32 |          6 |         64 |
+| android\app\src\main\res\drawable                                                                                                            |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\drawable-v21                                                                                                        |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\values                                                                                                              |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\main\res\values-night                                                                                                        |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\profile                                                                                                                      |          1 |          3 |          4 |          1 |          8 |
+| android\gradle                                                                                                                               |          1 |          5 |          0 |          1 |          6 |
+| android\gradle\wrapper                                                                                                                       |          1 |          5 |          0 |          1 |          6 |
+| ios                                                                                                                                          |          8 |        229 |          4 |         13 |        246 |
+| ios\Runner                                                                                                                                   |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner (Files)                                                                                                                           |          2 |         13 |          0 |          3 |         16 |
+| ios\RunnerTests                                                                                                                              |          1 |          7 |          2 |          4 |         13 |
+| ios\Runner\Assets.xcassets                                                                                                                   |          3 |        148 |          0 |          4 |        152 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                                                                                |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                                                                              |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                                                                        |          2 |         61 |          2 |          2 |         65 |
+| lib                                                                                                                                          |         96 |      6,482 |        585 |        606 |      7,673 |
+| lib (Files)                                                                                                                                  |          1 |        104 |          7 |          6 |        117 |
+| lib\blocs                                                                                                                                    |         20 |      1,091 |         74 |        176 |      1,341 |
+| lib\blocs (Files)                                                                                                                            |          1 |          0 |          0 |          1 |          1 |
+| lib\blocs\infoMarker                                                                                                                         |          3 |         41 |          0 |         14 |         55 |
+| lib\blocs\institution                                                                                                                        |          4 |        334 |         30 |         34 |        398 |
+| lib\blocs\location                                                                                                                           |          3 |         78 |          2 |         22 |        102 |
+| lib\blocs\map                                                                                                                                |          5 |        469 |         37 |         70 |        576 |
+| lib\blocs\map (Files)                                                                                                                        |          3 |        371 |         35 |         57 |        463 |
+| lib\blocs\map\helpers                                                                                                                        |          2 |         98 |          2 |         13 |        113 |
+| lib\blocs\permissions                                                                                                                        |          4 |        169 |          5 |         35 |        209 |
+| lib\config                                                                                                                                   |          1 |         22 |          4 |          2 |         28 |
+| lib\config\routes                                                                                                                            |          1 |         22 |          4 |          2 |         28 |
+| lib\data                                                                                                                                     |         10 |        978 |         29 |         47 |      1,054 |
+| lib\features                                                                                                                                 |         41 |      2,614 |        247 |        219 |      3,080 |
+| lib\features\home                                                                                                                            |          9 |        517 |          7 |         37 |        561 |
+| lib\features\home\presentation                                                                                                               |          9 |        517 |          7 |         37 |        561 |
+| lib\features\home\presentation\screen                                                                                                        |          3 |        250 |          4 |         15 |        269 |
+| lib\features\home\presentation\widget                                                                                                        |          6 |        267 |          3 |         22 |        292 |
+| lib\features\institution                                                                                                                     |         13 |        652 |        189 |         65 |        906 |
+| lib\features\institution\infrastructure                                                                                                      |          1 |          8 |          0 |          3 |         11 |
+| lib\features\institution\infrastructure\mappers                                                                                              |          1 |          8 |          0 |          3 |         11 |
+| lib\features\institution\institutionDetails                                                                                                  |         12 |        644 |        189 |         62 |        895 |
+| lib\features\institution\institutionDetails\screens                                                                                          |          2 |        127 |          4 |          9 |        140 |
+| lib\features\institution\institutionDetails\widgets                                                                                          |         10 |        517 |        185 |         53 |        755 |
+| lib\features\map                                                                                                                             |         14 |      1,047 |         28 |         80 |      1,155 |
+| lib\features\map\infrastructure                                                                                                              |          1 |         13 |          0 |          3 |         16 |
+| lib\features\map\infrastructure\mappers                                                                                                      |          1 |         13 |          0 |          3 |         16 |
+| lib\features\map\presentation                                                                                                                |         13 |      1,034 |         28 |         77 |      1,139 |
+| lib\features\map\presentation\screen                                                                                                         |          3 |        179 |         13 |         17 |        209 |
+| lib\features\map\presentation\widget                                                                                                         |         10 |        855 |         15 |         60 |        930 |
+| lib\features\search                                                                                                                          |          3 |        303 |          1 |         22 |        326 |
+| lib\features\search\search                                                                                                                   |          3 |        303 |          1 |         22 |        326 |
+| lib\features\search\search (Files)                                                                                                           |          1 |        120 |          1 |         12 |        133 |
+| lib\features\search\search\widgets                                                                                                           |          2 |        183 |          0 |         10 |        193 |
+| lib\features\view                                                                                                                            |          2 |         95 |         22 |         15 |        132 |
+| lib\helper                                                                                                                                   |          8 |        542 |         65 |         77 |        684 |
+| lib\shared                                                                                                                                   |         15 |      1,131 |        159 |         79 |      1,369 |
+| lib\shared\components                                                                                                                        |          6 |        549 |          1 |         33 |        583 |
+| lib\shared\widgets                                                                                                                           |          9 |        582 |        158 |         46 |        786 |
+| linux                                                                                                                                        |          6 |        117 |         27 |         44 |        188 |
+| linux (Files)                                                                                                                                |          3 |         86 |         18 |         27 |        131 |
+| linux\flutter                                                                                                                                |          3 |         31 |          9 |         17 |         57 |
+| macos                                                                                                                                        |          6 |        448 |          5 |         16 |        469 |
+| macos\Flutter                                                                                                                                |          1 |         10 |          3 |          4 |         17 |
+| macos\Runner                                                                                                                                 |          4 |        431 |          0 |          8 |        439 |
+| macos\Runner (Files)                                                                                                                         |          2 |         20 |          0 |          6 |         26 |
+| macos\RunnerTests                                                                                                                            |          1 |          7 |          2 |          4 |         13 |
+| macos\Runner\Assets.xcassets                                                                                                                 |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Assets.xcassets\AppIcon.appiconset                                                                                              |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Base.lproj                                                                                                                      |          1 |        343 |          0 |          1 |        344 |
+| test                                                                                                                                         |          1 |         14 |         10 |          7 |         31 |
+| web                                                                                                                                          |          2 |         73 |         16 |          7 |         96 |
+| windows                                                                                                                                      |         11 |        470 |         94 |        149 |        713 |
+| windows\flutter                                                                                                                              |          3 |         42 |          9 |         17 |         68 |
+| windows\runner                                                                                                                               |          8 |        428 |         85 |        132 |        645 |
++----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| filename                                                                                                                                     | language        | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\README.md                                                                       | Markdown        |         10 |          0 |          7 |         17 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\analysis_options.yaml                                                           | YAML            |          3 |         22 |          4 |         29 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\app\build.gradle                                                        | Gradle          |         54 |          5 |         12 |         71 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\app\src\debug\AndroidManifest.xml                                       | XML             |          3 |          4 |          1 |          8 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\app\src\main\AndroidManifest.xml                                        | XML             |         39 |          8 |          3 |         50 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\app\src\main\kotlin\com\example\distrito7_mobile\MainActivity.kt        | Kotlin          |          4 |          0 |          3 |          7 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\app\src\main\res\drawable-v21\launch_background.xml                     | XML             |          4 |          7 |          2 |         13 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\app\src\main\res\drawable\launch_background.xml                         | XML             |          4 |          7 |          2 |         13 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\app\src\main\res\values-night\styles.xml                                | XML             |          9 |          9 |          1 |         19 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\app\src\main\res\values\styles.xml                                      | XML             |          9 |          9 |          1 |         19 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\app\src\profile\AndroidManifest.xml                                     | XML             |          3 |          4 |          1 |          8 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\build.gradle                                                            | Gradle          |         26 |          0 |          5 |         31 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\gradle.properties                                                       | Java Properties |          3 |          0 |          1 |          4 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\gradle\wrapper\gradle-wrapper.properties                                | Java Properties |          5 |          0 |          1 |          6 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\android\settings.gradle                                                         | Gradle          |         24 |          0 |          6 |         30 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\ios\RunnerTests\RunnerTests.swift                                               | Swift           |          7 |          2 |          4 |         13 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\ios\Runner\AppDelegate.swift                                                    | Swift           |         12 |          0 |          2 |         14 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json                     | JSON            |        122 |          0 |          1 |        123 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json                   | JSON            |         23 |          0 |          1 |         24 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md                       | Markdown        |          3 |          0 |          2 |          5 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\ios\Runner\Base.lproj\LaunchScreen.storyboard                                   | XML             |         36 |          1 |          1 |         38 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\ios\Runner\Base.lproj\Main.storyboard                                           | XML             |         25 |          1 |          1 |         27 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\ios\Runner\Runner-Bridging-Header.h                                             | C++             |          1 |          0 |          1 |          2 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\bloc.dart                                                             | Dart            |          0 |          0 |          1 |          1 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\infoMarker\info_marker_bloc.dart                                      | Dart            |         15 |          0 |          4 |         19 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\infoMarker\info_marker_event.dart                                     | Dart            |         14 |          0 |          5 |         19 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\infoMarker\info_marker_state.dart                                     | Dart            |         12 |          0 |          5 |         17 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\institution\helpers.dart                                              | Dart            |        158 |          1 |          6 |        165 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\institution\institution_bloc.dart                                     | Dart            |         56 |          4 |          7 |         67 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\institution\institution_event.dart                                    | Dart            |         18 |          0 |          5 |         23 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\institution\institution_state.dart                                    | Dart            |        102 |         25 |         16 |        143 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\location\location_bloc.dart                                           | Dart            |         40 |          0 |         10 |         50 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\location\location_event.dart                                          | Dart            |         16 |          0 |          6 |         22 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\location\location_state.dart                                          | Dart            |         22 |          2 |          6 |         30 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\map\helpers\map-helper.dart                                           | Dart            |         93 |          2 |          9 |        104 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\map\helpers\mapGoogle-helper.dart                                     | Dart            |          5 |          0 |          4 |          9 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\map\map_bloc.dart                                                     | Dart            |        249 |         23 |         30 |        302 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\map\map_event.dart                                                    | Dart            |         48 |          3 |         16 |         67 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\map\map_state.dart                                                    | Dart            |         74 |          9 |         11 |         94 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\permissions\helpers.dart                                              | Dart            |         42 |          1 |          9 |         52 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\permissions\permissions_bloc.dart                                     | Dart            |         77 |          1 |         13 |         91 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\permissions\permissions_event.dart                                    | Dart            |         20 |          0 |          5 |         25 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\blocs\permissions\permissions_state.dart                                    | Dart            |         30 |          3 |          8 |         41 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\config\routes\app_routes.dart                                               | Dart            |         22 |          4 |          2 |         28 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\auxData.dart                                                           | Dart            |         30 |          1 |          3 |         34 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\categories-data.dart                                                   | Dart            |         65 |          0 |          4 |         69 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\categories.dart                                                        | Dart            |         13 |          0 |          3 |         16 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\mapTheme.dart                                                          | Dart            |        167 |          0 |          1 |        168 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\markers-data.dart                                                      | Dart            |        234 |         24 |          8 |        266 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\nrEmergencia.dart                                                      | Dart            |         10 |          0 |          2 |         12 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\nrEmergencias-data.dart                                                | Dart            |         43 |          0 |          2 |         45 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\objetoAuxData.dart                                                     | Dart            |        317 |          2 |         19 |        338 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\polygones-data.dart                                                    | Dart            |         89 |          2 |          3 |         94 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\data\unidad-educativa.dart                                                  | Dart            |         10 |          0 |          2 |         12 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\home\presentation\screen\categories-screen.dart                    | Dart            |         58 |          2 |          6 |         66 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\home\presentation\screen\emergencyNumber-screen.dart               | Dart            |        167 |          0 |          6 |        173 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\home\presentation\screen\welcome-screen.dart                       | Dart            |         25 |          2 |          3 |         30 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\home\presentation\widget\ButtonAccess.dart                         | Dart            |         49 |          0 |          4 |         53 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\home\presentation\widget\ContainerOptionsPermissions.dart          | Dart            |         62 |          0 |          3 |         65 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\home\presentation\widget\CustomButton.dart                         | Dart            |         41 |          1 |          5 |         47 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\home\presentation\widget\ItemCategory.dart                         | Dart            |         76 |          1 |          6 |         83 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\home\presentation\widget\TitleCategories.dart                      | Dart            |         34 |          1 |          3 |         38 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\home\presentation\widget\widget.dart                               | Dart            |          5 |          0 |          1 |          6 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\infrastructure\mappers\optionsAditional.dart           | Dart            |          8 |          0 |          3 |         11 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\screens\history-screen.dart         | Dart            |         81 |          0 |          4 |         85 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\screens\instittutionScreen.dart     | Dart            |         46 |          4 |          5 |         55 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\commonInstitution.dart      | Dart            |         63 |          5 |          4 |         72 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\containerShading.dart       | Dart            |         33 |          0 |          3 |         36 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\dataBaseInfo.dart           | Dart            |         60 |          0 |          4 |         64 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\institutionInformation.dart | Dart            |         50 |          0 |          7 |         57 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\managementInfo.dart         | Dart            |          0 |          0 |          1 |          1 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\optionsScreen.dart          | Dart            |         73 |          9 |          7 |         89 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\publicServices.dart         | Dart            |          0 |          0 |          1 |          1 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\selection-marker-view.dart  | Dart            |         58 |          6 |          5 |         69 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\specialInstitution.dart     | Dart            |        146 |        165 |         18 |        329 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\institution\institutionDetails\widgets\titleBase.dart              | Dart            |         34 |          0 |          3 |         37 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\infrastructure\mappers\optionTerrainMap.dart                   | Dart            |         13 |          0 |          3 |         16 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\screen\infoWindow-screen.dart                     | Dart            |         41 |          0 |          4 |         45 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\screen\map-sceen.dart                             | Dart            |         76 |          6 |          7 |         89 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\screen\map-view.dart                              | Dart            |         62 |          7 |          6 |         75 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\OptionsMap.dart                            | Dart            |         96 |          9 |          4 |        109 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\body-window.dart                           | Dart            |        141 |          2 |          7 |        150 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\containerSearch.dart                       | Dart            |         53 |          0 |          4 |         57 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\footer-primary.dart                        | Dart            |         73 |          1 |          6 |         80 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\header-primary.dart                        | Dart            |         39 |          0 |          4 |         43 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\header-secondary.dart                      | Dart            |         86 |          0 |          5 |         91 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\mapLoading.dart                            | Dart            |         20 |          0 |          4 |         24 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\optionsTerrainDif.dart                     | Dart            |        187 |          0 |         13 |        200 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\sectorAdministrativo.dart                  | Dart            |        153 |          3 |         12 |        168 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\map\presentation\widget\widget.dart                                | Dart            |          7 |          0 |          1 |          8 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\search\search\search-screen.dart                                   | Dart            |        120 |          1 |         12 |        133 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\search\search\widgets\searchBar.dart                               | Dart            |         89 |          0 |          6 |         95 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\search\search\widgets\searchResultElement.dart                     | Dart            |         94 |          0 |          4 |         98 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\view\imageVR.dart                                                  | Dart            |         42 |          1 |          6 |         49 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\features\view\videoVR.dart                                                  | Dart            |         53 |         21 |          9 |         83 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\helper\fuctions.dart                                                        | Dart            |         34 |          0 |          3 |         37 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\helper\marker-map.dart                                                      | Dart            |          0 |         11 |          5 |         16 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\helper\markerSimple.dart                                                    | Dart            |         75 |          9 |          8 |         92 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\helper\marketPainter.dart                                                   | Dart            |         85 |         15 |         20 |        120 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\helper\marketPainterUpdate.dart                                             | Dart            |         84 |         13 |         20 |        117 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\helper\pruebaCustomPainter.dart                                             | Dart            |         24 |         12 |          6 |         42 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\helper\show_loading_message.dart                                            | Dart            |         48 |          1 |          4 |         53 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\helper\widgets_to_marker.dart                                               | Dart            |        192 |          4 |         11 |        207 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\main.dart                                                                   | Dart            |        104 |          7 |          6 |        117 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\components\careListInstitution.dart                                  | Dart            |         86 |          0 |          8 |         94 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\components\components.dart                                           | Dart            |          5 |          0 |          1 |          6 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\components\governmentVisitsList.dart                                 | Dart            |        105 |          0 |          7 |        112 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\components\institutionTechnologyList.dart                            | Dart            |        164 |          0 |         10 |        174 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\components\itemInformationShift.dart                                 | Dart            |        133 |          0 |          4 |        137 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\components\itemServicePublic.dart                                    | Dart            |         56 |          1 |          3 |         60 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\widgets\DropDownInfoBloc.dart                                        | Dart            |        132 |          0 |         11 |        143 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\widgets\additionalOptions.dart                                       | Dart            |        172 |        142 |          9 |        323 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\widgets\buttonCloseScreen.dart                                       | Dart            |         30 |          0 |          3 |         33 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\widgets\buttonGeoNB.dart                                             | Dart            |         23 |          0 |          2 |         25 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\widgets\iconInformation.dart                                         | Dart            |         50 |          5 |          4 |         59 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\widgets\imageDescription.dart                                        | Dart            |         44 |          2 |          5 |         51 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\widgets\imageNetworkPersonalized.dart                                | Dart            |         36 |          1 |          3 |         40 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\widgets\imagesSwiper.dart                                            | Dart            |         42 |          6 |          5 |         53 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\lib\shared\widgets\item-ExpansionTile.dart                                      | Dart            |         53 |          2 |          4 |         59 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\linux\flutter\generated_plugin_registrant.cc                                    | C++             |          7 |          4 |          5 |         16 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\linux\flutter\generated_plugin_registrant.h                                     | C++             |          5 |          5 |          6 |         16 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\linux\flutter\generated_plugins.cmake                                           | CMake           |         19 |          0 |          6 |         25 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\linux\main.cc                                                                   | C++             |          5 |          0 |          2 |          7 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\linux\my_application.cc                                                         | C++             |         74 |         11 |         20 |        105 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\linux\my_application.h                                                          | C++             |          7 |          7 |          5 |         19 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\macos\Flutter\GeneratedPluginRegistrant.swift                                   | Swift           |         10 |          3 |          4 |         17 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\macos\RunnerTests\RunnerTests.swift                                             | Swift           |          7 |          2 |          4 |         13 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\macos\Runner\AppDelegate.swift                                                  | Swift           |          8 |          0 |          2 |         10 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json                   | JSON            |         68 |          0 |          1 |         69 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\macos\Runner\Base.lproj\MainMenu.xib                                            | XML             |        343 |          0 |          1 |        344 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\macos\Runner\MainFlutterWindow.swift                                            | Swift           |         12 |          0 |          4 |         16 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\pubspec.yaml                                                                    | YAML            |         41 |         50 |          5 |         96 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\test\widget_test.dart                                                           | Dart            |         14 |         10 |          7 |         31 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\web\index.html                                                                  | HTML            |         38 |         16 |          6 |         60 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\web\manifest.json                                                               | JSON            |         35 |          0 |          1 |         36 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\flutter\generated_plugin_registrant.cc                                  | C++             |         15 |          4 |          5 |         24 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\flutter\generated_plugin_registrant.h                                   | C++             |          5 |          5 |          6 |         16 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\flutter\generated_plugins.cmake                                         | CMake           |         22 |          0 |          6 |         28 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\runner\flutter_window.cpp                                               | C++             |         49 |          7 |         16 |         72 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\runner\flutter_window.h                                                 | C++             |         20 |          5 |          9 |         34 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\runner\main.cpp                                                         | C++             |         30 |          4 |         10 |         44 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\runner\resource.h                                                       | C++             |          9 |          6 |          2 |         17 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\runner\utils.cpp                                                        | C++             |         54 |          2 |         10 |         66 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\runner\utils.h                                                          | C++             |          8 |          6 |          6 |         20 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\runner\win32_window.cpp                                                 | C++             |        210 |         24 |         55 |        289 |
+| c:\Users\Alejandro\Desktop\App - Distrito 7\distrito7_mobile\windows\runner\win32_window.h                                                   | C++             |         48 |         31 |         24 |        103 |
+| Total                                                                                                                                        |                 |      8,074 |        866 |        897 |      9,837 |
++----------------------------------------------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
